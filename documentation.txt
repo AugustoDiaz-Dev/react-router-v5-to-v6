@@ -1,4 +1,4 @@
 UPDATE a react-router-dom V5 to V6
 
 npm install
-npm i react-router-dom-@6
+npm install react-router-dom-@6
